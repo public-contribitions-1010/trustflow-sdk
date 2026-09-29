@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/auth-flow-complete",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/auth-flow-complete": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/auth-flow-complete",
+    "origin"
+  ]
+}
